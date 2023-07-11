@@ -1,4 +1,4 @@
-#Monitoring Temperature and Humidity, also Control your LED right on your finger
+# Monitoring Temperature and Humidity, also Control your LED right on your finger
 
 This code is made for **Internet of Things Individual Weekly Project**, it contains OTA and HTTP updater for every LED button you clicked👆
 
