@@ -5,7 +5,9 @@ This code is made for **Internet of Things Individual Weekly Project**, it conta
 **Node_RED interfacing**🍎
 ![image](https://github.com/mariaakuw/monitor-control/assets/114895269/3be4497d-3ddb-43f4-b804-7a5fc3199a44)
 
+
 **MQTT Dash**📶
+
 ![image](https://github.com/mariaakuw/monitor-control/assets/114895269/bef95ca6-aadf-49ff-a4ac-ae5c261c6929)
 
 ![image](https://github.com/mariaakuw/monitor-control/assets/114895269/dc7aa679-1670-4ee9-92bf-99421bc0b45d)
